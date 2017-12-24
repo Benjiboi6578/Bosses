@@ -1,0 +1,17 @@
+---
+spiderBossItems:
+- - 0
+  - 0
+  - 0
+- - 0
+  - 0
+  - 0
+'bossItemDropFormat: ': Nothing to add here
+'FORMAT: ItemID: ': Id of item
+'FORMAT: ItemDamage: ': Item durability
+'FORMAT: Count: ': How much
+winTitle: §cMotherBrood
+winSubTitle: §aDefeated
+spidereBossCommands:
+- tell %PLAYER% You Defeated The Boss
+...
